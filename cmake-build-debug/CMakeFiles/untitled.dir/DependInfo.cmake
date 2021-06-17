@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/juyeonkim/CLionProjects/cpp solve/Algorithm/jungol/jungol1314.cpp" "/Users/juyeonkim/CLionProjects/cpp solve/cmake-build-debug/CMakeFiles/untitled.dir/Algorithm/jungol/jungol1314.cpp.o"
-  "/Users/juyeonkim/CLionProjects/cpp solve/Algorithm/jungol/jungol1338.cpp" "/Users/juyeonkim/CLionProjects/cpp solve/cmake-build-debug/CMakeFiles/untitled.dir/Algorithm/jungol/jungol1338.cpp.o"
+  "/Users/juyeonkim/CLionProjects/cpp solve/Algorithm/jungol/jungol1430.cpp" "/Users/juyeonkim/CLionProjects/cpp solve/cmake-build-debug/CMakeFiles/untitled.dir/Algorithm/jungol/jungol1430.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

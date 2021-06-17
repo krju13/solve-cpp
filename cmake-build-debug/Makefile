@@ -143,59 +143,32 @@ untitled/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
-Algorithm/jungol/jungol1314.o: Algorithm/jungol/jungol1314.cpp.o
+Algorithm/jungol/jungol1430.o: Algorithm/jungol/jungol1430.cpp.o
 
-.PHONY : Algorithm/jungol/jungol1314.o
-
-# target to build an object file
-Algorithm/jungol/jungol1314.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1314.cpp.o
-.PHONY : Algorithm/jungol/jungol1314.cpp.o
-
-Algorithm/jungol/jungol1314.i: Algorithm/jungol/jungol1314.cpp.i
-
-.PHONY : Algorithm/jungol/jungol1314.i
-
-# target to preprocess a source file
-Algorithm/jungol/jungol1314.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1314.cpp.i
-.PHONY : Algorithm/jungol/jungol1314.cpp.i
-
-Algorithm/jungol/jungol1314.s: Algorithm/jungol/jungol1314.cpp.s
-
-.PHONY : Algorithm/jungol/jungol1314.s
-
-# target to generate assembly for a file
-Algorithm/jungol/jungol1314.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1314.cpp.s
-.PHONY : Algorithm/jungol/jungol1314.cpp.s
-
-Algorithm/jungol/jungol1338.o: Algorithm/jungol/jungol1338.cpp.o
-
-.PHONY : Algorithm/jungol/jungol1338.o
+.PHONY : Algorithm/jungol/jungol1430.o
 
 # target to build an object file
-Algorithm/jungol/jungol1338.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1338.cpp.o
-.PHONY : Algorithm/jungol/jungol1338.cpp.o
+Algorithm/jungol/jungol1430.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1430.cpp.o
+.PHONY : Algorithm/jungol/jungol1430.cpp.o
 
-Algorithm/jungol/jungol1338.i: Algorithm/jungol/jungol1338.cpp.i
+Algorithm/jungol/jungol1430.i: Algorithm/jungol/jungol1430.cpp.i
 
-.PHONY : Algorithm/jungol/jungol1338.i
+.PHONY : Algorithm/jungol/jungol1430.i
 
 # target to preprocess a source file
-Algorithm/jungol/jungol1338.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1338.cpp.i
-.PHONY : Algorithm/jungol/jungol1338.cpp.i
+Algorithm/jungol/jungol1430.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1430.cpp.i
+.PHONY : Algorithm/jungol/jungol1430.cpp.i
 
-Algorithm/jungol/jungol1338.s: Algorithm/jungol/jungol1338.cpp.s
+Algorithm/jungol/jungol1430.s: Algorithm/jungol/jungol1430.cpp.s
 
-.PHONY : Algorithm/jungol/jungol1338.s
+.PHONY : Algorithm/jungol/jungol1430.s
 
 # target to generate assembly for a file
-Algorithm/jungol/jungol1338.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1338.cpp.s
-.PHONY : Algorithm/jungol/jungol1338.cpp.s
+Algorithm/jungol/jungol1430.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Algorithm/jungol/jungol1430.cpp.s
+.PHONY : Algorithm/jungol/jungol1430.cpp.s
 
 # Help Target
 help:
@@ -206,12 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... untitled"
-	@echo "... Algorithm/jungol/jungol1314.o"
-	@echo "... Algorithm/jungol/jungol1314.i"
-	@echo "... Algorithm/jungol/jungol1314.s"
-	@echo "... Algorithm/jungol/jungol1338.o"
-	@echo "... Algorithm/jungol/jungol1338.i"
-	@echo "... Algorithm/jungol/jungol1338.s"
+	@echo "... Algorithm/jungol/jungol1430.o"
+	@echo "... Algorithm/jungol/jungol1430.i"
+	@echo "... Algorithm/jungol/jungol1430.s"
 .PHONY : help
 
 

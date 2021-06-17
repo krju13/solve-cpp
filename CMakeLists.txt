@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled   Algorithm/jungol/jungol1314.cpp Algorithm/jungol/jungol1338.cpp)
+add_executable(untitled  Algorithm/jungol/jungol1430.cpp)

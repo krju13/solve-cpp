@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled.dir/Algorithm/jungol/jungol1314.cpp.o"
-  "CMakeFiles/untitled.dir/Algorithm/jungol/jungol1338.cpp.o"
+  "CMakeFiles/untitled.dir/Algorithm/jungol/jungol1430.cpp.o"
   "untitled"
   "untitled.pdb"
 )

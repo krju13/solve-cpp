@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/juyeonkim/CLionProjects/cpp solve/Algorithm/jungol/jungol1314.cpp">
-			<Option target="untitled"/>
-		</Unit>
-		<Unit filename="/Users/juyeonkim/CLionProjects/cpp solve/Algorithm/jungol/jungol1338.cpp">
+		<Unit filename="/Users/juyeonkim/CLionProjects/cpp solve/Algorithm/jungol/jungol1430.cpp">
 			<Option target="untitled"/>
 		</Unit>
 		<Unit filename="/Users/juyeonkim/CLionProjects/cpp solve/CMakeLists.txt">
